@@ -5,9 +5,9 @@
 This private repository is designed exclusively for showcasing my data science skills and projects to potential recruiters. As a comprehensive portfolio, it highlights my expertise, methodologies, and the value I can bring to your organization.
 
 # Repository Structure
-Projects Folder: Contains a variety of data science projects, each in its own subfolder. Every project includes source code, datasets, and a detailed README explaining the objectives, methodology, and results.
-Skills Directory: A categorized compilation of scripts and notebooks demonstrating specific data science skills such as data cleaning, visualization, machine learning, etc.
-Resume: A current copy of my professional resume, emphasizing my data science experience and accomplishments.
+* Projects Folder: Contains a variety of data science projects, each in its own subfolder. Every project includes source code, datasets, and a detailed README explaining the objectives, methodology, and results.
+* Skills Directory: A categorized compilation of scripts and notebooks demonstrating specific data science skills such as data cleaning, visualization, machine learning, etc.
+* Resume: A current copy of my professional resume, emphasizing my data science experience and accomplishments.
 Certificates and Awards: Scanned copies of relevant certifications and any awards received in the field of data science.
 
 # Navigating the Repository
