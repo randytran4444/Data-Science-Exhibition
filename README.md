@@ -20,12 +20,12 @@ The datasets used in this repository are either publicly available or have been 
 Please respect the privacy of the data and projects in this repository.
 
 # Contact Information
-* Name: [Randy Tran]
+* Name: Randy Tran
 * LinkedIn: [https://www.linkedin.com/in/randytran0/]
 * Email: [randytran4444@yahoo.com]
 *Feel free to reach out for more information or clarification on any of the projects.
 # Feedback
-Recruiters are welcome to provide feedback or ask questions directly through GitHub issues or via email.
+Recruiters are welcome to provide feedback or ask questions directly through GitHub issues or via email (email will be faster).
 Your input is invaluable for improving my work and understanding your organizational needs better.
 
 
